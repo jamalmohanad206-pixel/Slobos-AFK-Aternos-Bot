@@ -8,8 +8,8 @@
   "server": {
     "ip": "jamalarab.aternos.me",
     "port": 49339,
-    "version": "",
-    "try-creative": false
+    "version": "26.3",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
